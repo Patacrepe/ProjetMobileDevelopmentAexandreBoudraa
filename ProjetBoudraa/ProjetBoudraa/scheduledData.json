@@ -1,0 +1,127 @@
+[
+    {
+        "name": "Breakfast , Meal",
+        "description" : "15/11/2019 8:00am to 15/11/2019 9:00am ; Location : President's dining hall",
+    
+    },
+    {
+        "name": "Opening remarks (Friday) , Keynote",
+        "description": "Date : 15/11/2019 9:00am to 15/11/2019 9:25am ; Notes: Katina is subbing in for Russell, because he's coming in on a flight ; Location: Grand ballroom ; Speakers : Katina Frey",
+        
+    },
+    {
+        "name": "Morning keynote (Friday) , Keynote",
+        "description": "Date : 15/11/2019 9:30am to 15/11/2019 10:15am ; Location: Grand ballroom ; Speakers : Mattheus Anderson",
+      
+    },
+    {
+        "name": "Technology in the household , Panel",
+        "description": "Date : 15/11/2019 10:30am to 15/11/2019 11:20am ; Location: Pearl room ; Speakers : Stephan Oswald",
+        
+    },
+    {
+        "name": "Afternoon keynote (Friday) , Keynote",
+        "description": "Date : 15/11/2019 11:00am to 15/11/2019 7:30pm ; Location: Grand ballroom ; Speakers : Stephan Oswald",
+       
+    },
+    {
+        "name": "Workshop for security novices , Workshop",
+        "description": "Date : 15/11/2019 11:30am to 15/11/2019 12:00am ; Location: Emerald room",
+        
+    },
+    {
+        "name": "Lunch (Friday) , Meal",
+        "description": "Date : 15/11/2019 12:15am to 15/11/2019 1:30pm ; Notes : We'll have vegetarian and pescatarian friendly meals available! ; Location: President's dining hall",
+       
+    },
+    {
+        "name": "Security for all ages , Panel",
+        "description": "Date : 15/11/2019 1:30pm to 15/11/2019 2:20pm ; Notes : Belinda's going to need a projector for her presentation; Location: Garnet room,Jade room ; Speakers : Deepa Vartak,Belinda Chen",
+      
+    },
+    {
+        "name": "Happy hour & networking , Networking",
+        "description": "Date : 15/11/2019 1:30pm to 15/11/2019 6:30pm ; Notes : Will be an open happy hour ; Location : President's dining hall",
+      
+    },
+    {
+        "name": "Breakout session (Friday) , Breakout session",
+        "description": "Date : 15/11/2019 2:30pm to 15/11/2019 3:20pm ; Notes : Make sure that post-its are available for everyone at the start of the session ; Location : Sapphire room",
+      
+    },
+    {
+        "name": "Best practices for IoT protocols , Panel",
+        "description": "Date : 15/11/2019 2:30pm to 15/11/2019 3:20am ; Location : Emerald room ; Speakers : Gabriella Lily",
+      
+    },
+    {
+        "name": "Breakout presentation (Friday) , Breakout session",
+        "description": "Date : 15/11/2019 3:30pm to 15/11/2019 3:55pm ; Location : Ruby room",
+      
+    },
+    {
+        "name": "Case study: Home SecurTech, panel",
+        "description": "Date : 15/11/2019 3:30pm to 15/11/2019 5:20pm",
+      
+    },
+    {
+        "name": "Closing remarks (Friday), keynote",
+        "description": "Date : 15/11/2019 7:00pm to 15/11/2019 8:00pm ",
+      
+    },
+    {
+        "name": "Opening remarks (Saturday) , keynote",
+        "description": "Date : 16/11/2019 9:00am to 16/11/2019 9:30am",
+      
+    },
+    {
+        "name": "Morning keynote (Saturday), keynote",
+        "description": "Date : 16/11/2019 9:00am to 16/11/2019 9:30am",
+      
+    },
+    {
+        "name": "How to make all your devices play nice , panel",
+        "description": "Date : 16/11/2019 9:00am to 16/11/2019 9:30am",
+      
+    },
+    {
+        "name": "Building an alert system that works for everyone, panel",
+        "description": "Date : 16/11/2019 9:00am to 16/11/2019 9:30am",
+      
+    },
+    {
+        "name": "Workshop for security professionals, workshop",
+        "description": "Date : 16/11/2019 9:00am to 16/11/2019 9:30am",
+      
+    },
+    {
+        "name": "Lunch (Saturday), meal",
+        "description": "Date : 16/11/2019 9:00am to 16/11/2019 9:30am",
+      
+    },
+    {
+        "name": "Which security solution is best for you?, panel",
+        "description": "Date : 16/11/2019 9:00am to 16/11/2019 9:30am",
+      
+    },
+    {
+        "name": "Breakout session (Saturday) , Breakout session",
+        "description": "Date : 16/11/2019 9:00am to 16/11/2019 9:30am",
+      
+    },
+    {
+        "name": "Afternoon keynote (Saturday), keynote",
+        "description": "Date : 16/11/2019 9:00am to 16/11/2019 9:30am",
+      
+    },
+    {
+        "name": "Community building workshop, workshop",
+        "description": "Date : 16/11/2019 9:00am to 16/11/2019 9:30am",
+      
+    },
+    {
+        "name": "Building a safer community, panel",
+        "description": "Date : 16/11/2019 9:00am to 16/11/2019 9:30am",
+      
+    }
+]
